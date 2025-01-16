@@ -1,0 +1,4 @@
+name: Chat-API
+version: '${version}'
+main: fr.trao.chatapi.ChatPluginAPI
+author: trao
